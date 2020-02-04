@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb  3 14:26:20 2020
-
 @author: Christian Quintanar
 """
 
