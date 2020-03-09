@@ -1,2 +1,2 @@
 # Fourier-Analysis
-Exercise Solutions and Programs in Python or C++ or Matlab
+Fourier-Analysis exercises with solutions and programs in Python or C++ or Matlab
